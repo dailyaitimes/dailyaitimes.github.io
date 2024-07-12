@@ -1,0 +1,2 @@
+# dailyaitimes.github.io
+blog
